@@ -12,7 +12,7 @@ headers = {
 }
 
 
-#获取params
+#获取params ok
 def get_params(first_param, forth_param):
     iv = "0102030405060708"
     first_key = forth_param
